@@ -1,8 +1,6 @@
 <div align="center">
 
 ### Olá! Sou Mauricio Lobo 👋
-
-- 🔭 Trabalhando no Projeto da Minha Startup Ekko Sistemas
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas
 - 📫 Entre em contato comigo : mauriciolobo509@gmail.com
 
