@@ -68,7 +68,13 @@
 
 ###
 
-<img alt="snake gif" src="https://raw.githubusercontent.com/MaauLobo/MaauLobo/output/ocean.gif" />
+### 🐍 Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaauLobo/MaauLobo/output/github-snake-dark.svg" />
+  <img alt="snake gif" src="https://raw.githubusercontent.com/MaauLobo/MaauLobo/output/github-snake.svg" />
+</picture>
+
 
 
 ###
