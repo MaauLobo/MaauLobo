@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Executa todo dia à meia-noite
+    - cron: "0 0 * * *"  # Roda todo dia à meia-noite
   workflow_dispatch:
 
 jobs:
@@ -10,10 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate Snake SVG
-        uses: Platane/snk@v3
+        uses: Platane/snk@master
         with:
           github_user_name: MaauLobo
-          svg_out_path: dist/snake.svg
+          outputs: |
+            dist/snake.svg
 
       - name: Push SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3
