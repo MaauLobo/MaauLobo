@@ -68,7 +68,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MaauLobo/MaauLobo/output/snake.svg" alt="Snake animation" />
+<img alt="snake gif" src="https://raw.githubusercontent.com/MaauLobo/MaauLobo/output/ocean.gif" />
+
 
 ###
 
